@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MemoApp</string>
+
+    <string name="title">タイトル</string>
+    <string name="comment">コメント</string>
+    <string name="save">保存</string>
+    <string name="delete">削除</string>
+</resources>
